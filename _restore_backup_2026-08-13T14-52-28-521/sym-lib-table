@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "GF_JTLPS1_24-KXK5-1-1") (type "KiCad") (uri "${KIPRJMOD}/GF_JTLPS1.24-KXK5-1-1/GF_JTLPS1_24-KXK5-1-1.kicad_sym") (options "") (descr ""))
+	(lib (name "SEAM-50-01-L-06-2-RA-GP-TR") (type "KiCad") (uri "${KIPRJMOD}/SEAM-50-01-L-06-2-RA-GP-TR/SEAM-50-01-L-06-2-RA-GP-TR.kicad_sym") (options "") (descr ""))
+)

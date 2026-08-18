@@ -1,0 +1,258 @@
+(footprint "GFJTLPS124KXK511"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "GF JTLPS1.24-KXK5-1-1")
+	(tags "LED")
+	(property "Reference" "LED**"
+		(at -0.005 -2.475 0)
+		(layer "F.SilkS")
+		(uuid "399a56a6-735d-4029-8d5e-13131faf7921")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "GFJTLPS124KXK511"
+		(at -0.005 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d3d64056-4783-4219-98d6-6fce37858c5d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b8ffd5e7-b531-44a8-89de-27a5d4370471")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3de5dcf3-9fc2-4346-a75c-13fd224783f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.65 -1.4)
+		(end 1.65 -1.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de06cf0b-a120-42ec-b656-3ccb3be92fa2")
+	)
+	(fp_line
+		(start -1.65 1.4)
+		(end 1.65 1.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e5d2b0c-8618-4ffe-b7e6-fb6adbdfc130")
+	)
+	(fp_line
+		(start 2.3 0)
+		(end 2.3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d2098b22-cb03-40b9-8ab2-8485d8bf51f8")
+	)
+	(fp_line
+		(start 2.4 0)
+		(end 2.4 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4db28dc4-7bf8-4c8f-b7d3-aca8f4b6ba05")
+	)
+	(fp_arc
+		(start 2.3 0)
+		(mid 2.35 -0.05)
+		(end 2.4 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cfc2d36c-1682-4002-8e2a-bf105ec2d3a5")
+	)
+	(fp_arc
+		(start 2.4 0)
+		(mid 2.35 0.05)
+		(end 2.3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64a532f0-0e9b-4b4c-a44e-0732f3d9d087")
+	)
+	(fp_line
+		(start -2.89 -2.4)
+		(end 2.88 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "af9685a6-ca37-4aa2-bc55-da55d29bdcfb")
+	)
+	(fp_line
+		(start -2.89 2.4)
+		(end -2.89 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2b57d168-1a58-4c76-8320-76bf93df41bc")
+	)
+	(fp_line
+		(start 2.88 -2.4)
+		(end 2.88 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "343ae1db-f8b5-4ed7-992d-33d194b26248")
+	)
+	(fp_line
+		(start 2.88 2.4)
+		(end -2.89 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "107f4c06-dece-430d-ac2f-ec98d2b25d2d")
+	)
+	(fp_line
+		(start -1.65 -1.4)
+		(end 1.65 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "576a2548-23c6-4c62-a805-c074a2a08cd8")
+	)
+	(fp_line
+		(start -1.65 1.4)
+		(end -1.65 -1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad662a06-a0fd-4c9f-a1c2-ff9ad6f0eef7")
+	)
+	(fp_line
+		(start 1.65 -1.4)
+		(end 1.65 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5a79b0ba-a47c-4b65-b911-778656a66a7f")
+	)
+	(fp_line
+		(start 1.65 1.4)
+		(end -1.65 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d4e8d1f0-81d8-492a-86f8-d1dd9d0865b7")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.005 0 0)
+		(layer "F.Fab")
+		(uuid "1831909b-cf5a-4928-bb23-0613d926f16b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at 1.31 0)
+		(size 0.92 2.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.57 0.575) (xy 0 0.575) (xy 0 -0.575) (xy 0.57 -0.575)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "dd49b7c7-cdf3-4d99-ae90-8ceb150dbccc")
+	)
+	(pad "2" smd custom
+		(at -0.71 0 90)
+		(size 2.1 2.12)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.575 -1.05) (xy -0.575 -1.18) (xy 0.575 -1.18) (xy 0.575 -1.05)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "7d967bff-b1e9-424c-bacb-971343036bd4")
+	)
+	(embedded_fonts no)
+	(model "GF_JTLPS1.24-KXK5-1-1.stp"
+		(offset
+			(xyz 0 0 0.009999999626)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)
