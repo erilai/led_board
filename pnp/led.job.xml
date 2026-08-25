@@ -1,0 +1,70 @@
+<openpnp-job version="2.0">
+   <root-panel version="2.0">
+      <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+      <placements/>
+      <children>
+         <object class="org.openpnp.model.BoardLocation" side="Top" id="Brd1" file-name="/home/biomimetronics/Documents/led_board/pnp/led.board.xml" check-fiducials="false" locally-enabled="true">
+            <location units="Millimeters" x="282.81099589497546" y="95.55924812057164" z="2.680000000000003" rotation="0.412270900920965"/>
+         </object>
+      </children>
+      <pseudo-placement-ids/>
+   </root-panel>
+   <placed-status-map class="java.util.HashMap">
+      <entry>
+         <string>Brd1⇒D99</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D98</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D97</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D102</string>
+         <boolean>false</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D101</string>
+         <boolean>false</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D100</string>
+         <boolean>false</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D7</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D1</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D2</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D5</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D6</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D3</string>
+         <boolean>true</boolean>
+      </entry>
+      <entry>
+         <string>Brd1⇒D4</string>
+         <boolean>true</boolean>
+      </entry>
+   </placed-status-map>
+   <enabled-state-map class="java.util.HashMap"/>
+   <check-fiducials-state-map class="java.util.HashMap"/>
+   <error-handling-state-map class="java.util.HashMap"/>
+   <error-handling>Alert</error-handling>
+</openpnp-job>

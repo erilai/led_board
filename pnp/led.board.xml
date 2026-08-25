@@ -1,0 +1,791 @@
+<openpnp-board version="1.1" name="led.board.xml">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <placements>
+      <placement version="1.4" side="Top" id="D1" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D2" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D3" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D4" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D5" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="110.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D6" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="110.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D7" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="110.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D8" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="110.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D9" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="83.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D10" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="83.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D11" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="83.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D12" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="83.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D13" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="74.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D14" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="74.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D15" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="74.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D16" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="74.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D17" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="47.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D18" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="47.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D19" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="47.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D20" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="47.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D21" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="38.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D22" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="38.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D23" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="38.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D24" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="38.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D25" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D26" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D27" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D28" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D29" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="110.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D30" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="110.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D31" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="110.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D32" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="110.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D33" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="83.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D34" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="83.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D35" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="83.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D36" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="83.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D37" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="74.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D38" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="74.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D39" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="74.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D40" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="74.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D41" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="47.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D42" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="47.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D43" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="47.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D44" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="47.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D45" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="38.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D46" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="38.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D47" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="38.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D48" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="38.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D49" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D50" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D51" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D52" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D53" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="101.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D54" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="101.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D55" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="101.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D56" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="101.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D57" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D58" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D59" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D60" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D61" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D62" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D63" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D64" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D65" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D66" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D67" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D68" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D69" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D70" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D71" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D72" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D73" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D74" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D75" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D76" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D77" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="101.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D78" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="101.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D79" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="101.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D80" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="101.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D81" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D82" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D83" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D84" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D85" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D86" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D87" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D88" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D89" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="44.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D90" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="53.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D91" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="26.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D92" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="35.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D93" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="89.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D94" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="80.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D95" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="71.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D96" part-id="SMTL3528UV-405-LED" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="62.43" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D97" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="122.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D98" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="122.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D99" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="122.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D100" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="122.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D101" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="113.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D102" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="113.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D103" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="113.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D104" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="113.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D105" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="86.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D106" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="86.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D107" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="86.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D108" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="86.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D109" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="77.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D110" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="77.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D111" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="77.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D112" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="77.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D113" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="50.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D114" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="50.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D115" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="50.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D116" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="50.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D117" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="41.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D118" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="41.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D119" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="41.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D120" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="41.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D121" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="122.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D122" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="122.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D123" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="122.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D124" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="122.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D125" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="113.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D126" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="113.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D127" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="113.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D128" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="113.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D129" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="86.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D130" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="86.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D131" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="86.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D132" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="86.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D133" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="77.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D134" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="77.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D135" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="77.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D136" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="77.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D137" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="50.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D138" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="50.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D139" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="50.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D140" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="50.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D141" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="41.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D142" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="41.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D143" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="41.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D144" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="41.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D145" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="131.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D146" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="131.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D147" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="131.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D148" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="131.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D149" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="104.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D150" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="104.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D151" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="104.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D152" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="104.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D153" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="95.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D154" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="95.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D155" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="95.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D156" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="95.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D157" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="68.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D158" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="68.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D159" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="68.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D160" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="68.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D161" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="59.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D162" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="59.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D163" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="59.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D164" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="59.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D165" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="32.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D166" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="32.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D167" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="32.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D168" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="32.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D169" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="131.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D170" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="131.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D171" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="131.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D172" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="131.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D173" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="104.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D174" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="104.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D175" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="104.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D176" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="104.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D177" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="95.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D178" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="95.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D179" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="95.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D180" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="95.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D181" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="68.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D182" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="68.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D183" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="68.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D184" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="68.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D185" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="59.0" y="46.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D186" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="59.0" y="55.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D187" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="59.0" y="28.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D188" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="59.0" y="37.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D189" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="32.0" y="91.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D190" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="32.0" y="82.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D191" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="32.0" y="73.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="D192" part-id="GFJTLPS124KXK511-LED" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="32.0" y="64.0" z="0.0" rotation="90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="J1" part-id="SAMTEC_SEAM-50-01-L-06-2-RA-GP-TR-SEAM-50-01-L-06-2-RA-GP-TR" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="80.0" y="130.918" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="MH1" part-id="MountingHole_3.5mm_Pad_TopBottom-MountingHole_Pad" type="Fiducial" enabled="true" rank="0">
+         <location units="Millimeters" x="8.98" y="58.91" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="MH2" part-id="MountingHole_3.5mm_Pad_TopBottom-MountingHole_Pad" type="Fiducial" enabled="true" rank="0">
+         <location units="Millimeters" x="150.74" y="58.91" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="MH3" part-id="MountingHole_3.5mm_Pad_TopBottom-MountingHole_Pad" type="Fiducial" enabled="true" rank="0">
+         <location units="Millimeters" x="79.86" y="8.98" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+   </placements>
+   <fiducials/>
+   <solder-paste-pads/>
+</openpnp-board>
