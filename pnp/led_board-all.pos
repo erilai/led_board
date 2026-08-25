@@ -1,10 +1,8 @@
-### Footprint positions - created on 2026-08-25T16:20:13 ###
+### Footprint positions - created on 2026-08-25T16:23:21 ###
 ### Printed by KiCad version 10.0.4
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val                         Package                                 PosX       PosY       Rot  Side
-                                                                           44.5650   133.5342    0.0000  top
-                                                                          115.4350   125.7842    0.0000  top
 D1        LED                         SMTL3528UV-405                      119.0000    79.0000  -90.0000  top
 D2        LED                         SMTL3528UV-405                      119.0000    88.0000  -90.0000  top
 D3        LED                         SMTL3528UV-405                      119.0000    61.0000  -90.0000  top
@@ -198,5 +196,8 @@ D190      LED                         GFJTLPS124KXK511                     32.00
 D191      LED                         GFJTLPS124KXK511                     32.0000    73.0000   90.0000  top
 D192      LED                         GFJTLPS124KXK511                     32.0000    64.0000   90.0000  top
 J1        SEAM-50-01-L-06-2-RA-GP-TR  SAMTEC_SEAM-50-01-L-06-2-RA-GP-TR    80.0000   130.9180    0.0000  top
+M3        MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom      8.9800    58.9100    0.0000  top
+M3        MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom    150.7400    58.9100    0.0000  top
+M3        MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom     79.8600     8.9800    0.0000  top
 REF**     Untitled                    Untitled                             44.5900   125.6592    0.0000  top
 ## End
