@@ -1,5 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "SEAM-50-01-L-06-2-RA-GP-TR") (type "KiCad") (uri "${KIPRJMOD}/SEAM-50-01-L-06-2-RA-GP-TR") (options "") (descr ""))
-	(lib (name "GF_JTLP mod") (type "KiCad") (uri "${KIPRJMOD}/GF_JTLP mod") (options "") (descr ""))
-)
