@@ -1,0 +1,137 @@
+(footprint "SMTL3528UV-405"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "D93"
+		(at -1.725 -2.225 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "144e1911-f0e9-4d68-9221-3cff705cd508")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LED"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a863692d-571a-44dd-98d3-feda13af7dcd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2df8bad2-7052-45ea-b6d2-e5060c360b71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Light emitting diode"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "659def6e-b8e9-4b52-a8fd-acd8c2950fbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" "1=K 2=A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "874734a3-f101-4c57-becf-e711b86c686b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
+	(sheetname "/")
+	(sheetfile "led_board.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -2.625 -1.375)
+		(end -0.225 -1.325)
+		(radius 0.025)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "979689a8-4576-4098-950c-cc2377c1496c")
+	)
+	(fp_rect
+		(start -2.625 1.325)
+		(end -0.225 1.375)
+		(radius 0.025)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "374bb5fa-3b86-480c-a569-82aefecb595d")
+	)
+	(fp_circle
+		(center -3.95 1.25)
+		(end -3.8 1.25)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "d59e7498-308e-477f-b4e3-418ee6dcf39e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b28f75d2-e8e6-48b4-8006-47025f5ad48d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2.3 0)
+		(size 2.2 2.1)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "16f3591a-0558-424e-8c10-0aff1994c1b6")
+	)
+	(pad "2" smd roundrect
+		(at -0.125 0)
+		(size 1.25 2.1)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.15)
+		(uuid "1f6fff03-c4df-4983-a7f5-1791a29f3a90")
+	)
+	(embedded_fonts no)
+)
