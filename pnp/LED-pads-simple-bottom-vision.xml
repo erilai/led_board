@@ -1,0 +1,23 @@
+<cv-pipeline>
+   <stages>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.ParameterNumeric" name="pMask" enabled="true" parameter-label="Mask Diameter" parameter-description="Shrink until the shiny nozzle collar is completely black, leaving only the part visible." stage-name="mask" property-name="diameter" effect-stage-name="mask" preview-result="true" minimum-value="30.0" maximum-value="500.0" default-value="160.0" numeric-type="Integer"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.ParameterNumeric" name="pThreshold" enabled="true" parameter-label="Threshold" parameter-description="Raise until only the bright pads/body remain white in the preview." stage-name="threshold" property-name="threshold" effect-stage-name="threshold" preview-result="true" minimum-value="1.0" maximum-value="254.0" default-value="150.0" numeric-type="Integer"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.ParameterNumeric" name="pDetail" enabled="true" parameter-label="Min. Detail Size" parameter-description="Raise to ignore small stray glints." stage-name="filterContours" property-name="minArea" effect-stage-name="paint" preview-result="true" minimum-value="0.0" maximum-value="0.25" default-value="0.02" numeric-type="SquareMillimetersToPixels"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.ImageCapture" name="image" enabled="true" default-light="true" settle-first="true" count="1"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.BlurGaussian" name="blur" enabled="true" kernel-size="5"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.MaskCircle" name="mask" enabled="true" diameter="160" property-name=""/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.ConvertColor" name="gray" enabled="true" conversion="Bgr2Gray"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.Threshold" name="threshold" enabled="true" threshold="150" auto="false" invert="false"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.FindContours" name="findContours" enabled="true" retrieval-mode="List" approximation-method="None"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.FilterContours" name="filterContours" enabled="true" contours-stage-name="findContours" min-area="0.02" max-area="900000.0"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.SetColor" name="black" enabled="true">
+         <color r="0" g="0" b="0" a="255"/>
+      </cv-stage>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.DrawContours" name="paint" enabled="true" contours-stage-name="filterContours" thickness="-1" index="-1">
+         <color r="255" g="255" b="255" a="255"/>
+      </cv-stage>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.MinAreaRect" name="results" enabled="true" threshold-min="100" threshold-max="255"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.ImageRecall" name="recall" enabled="true" image-stage-name="image"/>
+      <cv-stage class="org.openpnp.vision.pipeline.stages.DrawRotatedRects" name="draw" enabled="true" rotated-rects-stage-name="results" thickness="2" draw-rect-center="true" rect-center-radius="4" show-orientation="false"/>
+   </stages>
+</cv-pipeline>
