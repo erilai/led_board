@@ -196,8 +196,8 @@ D190      LED                         GFJTLPS124KXK511                     32.00
 D191      LED                         GFJTLPS124KXK511                     32.0000    73.0000   90.0000  top
 D192      LED                         GFJTLPS124KXK511                     32.0000    64.0000   90.0000  top
 J1        SEAM-50-01-L-06-2-RA-GP-TR  SAMTEC_SEAM-50-01-L-06-2-RA-GP-TR    80.0000   130.9180    0.0000  top
-M3        MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom      8.9800    58.9100    0.0000  top
-M3        MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom    150.7400    58.9100    0.0000  top
-M3        MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom     79.8600     8.9800    0.0000  top
+MH1       MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom      8.9800    58.9100    0.0000  top
+MH2       MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom    150.7400    58.9100    0.0000  top
+MH3       MountingHole_Pad            MountingHole_3.5mm_Pad_TopBottom     79.8600     8.9800    0.0000  top
 REF**     Untitled                    Untitled                             44.5900   125.6592    0.0000  top
 ## End
